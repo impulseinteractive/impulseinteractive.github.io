@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Under Construction. Stay Tuned!
+description: Retrospectives of past game projects we've completed!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 
